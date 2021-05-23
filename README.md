@@ -1,4 +1,8 @@
-# flutterform
+# Flutter Form Validation
+
+An example of how to reduce the complexity of a code and simply validate a form in flutter.
+
+You can customize the validation functions as you like. Here is a very small example of a validation function.
 
 A new Flutter project.
 
